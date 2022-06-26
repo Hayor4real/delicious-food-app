@@ -11,6 +11,12 @@ export default function HeroSection() {
     '/img/gallery/img_7.jpg',
     '/img/gallery/img_8.jpg',
     '/img/gallery/img_9.jpg',
+    '/img/gallery/img_10.jpg',
+    '/img/gallery/img_11.jpg',
+    '/img/gallery/img_12.jpg',
+    '/img/gallery/img_13.jpg',
+    '/img/gallery/img_14.jpg',
+    '/img/gallery/img_15.jpg',
   ];
   return (
     <div className='section hero'>
