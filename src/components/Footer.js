@@ -8,7 +8,7 @@ export default function Footer() {
           delicious food recepies of all cuisine. And our service is absolutely
           free.
         </p>
-        <p>&copy; 2021 | All Rights Reserved</p>
+        <p>&copy; 2022 | All Rights Reserved</p>
       </div>
       <div className='footer-section'>
         <p className='title'>Contact Us</p>
