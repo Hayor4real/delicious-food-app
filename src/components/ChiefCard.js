@@ -1,9 +1,9 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {
-  faFacebook,
-  faTwitter,
-  faInstagram,
-} from '@fortawesome/free-brands-svg-icons';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import {
+//   faFacebook,
+//   faTwitter,
+//   faInstagram,
+// } from '@fortawesome/free-brands-svg-icons';
 
 export default function ChiefCard({ chief }) {
   return (
@@ -17,11 +17,11 @@ export default function ChiefCard({ chief }) {
         <p className='chief-cuisine'>
           Cuisine: <b>{chief.cuisine}</b>
         </p>
-        <p className='cheif-icons'>
+        {/* <p className='cheif-icons'>
           <FontAwesomeIcon icon={faFacebook} />
           <FontAwesomeIcon icon={faTwitter} />
           <FontAwesomeIcon icon={faInstagram} />
-        </p>
+        </p> */}
       </div>
     </div>
   );
